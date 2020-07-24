@@ -38,12 +38,3 @@ Nouvelle table users
 Ajout d'une sauvegarde de l'adresse IP, du navigateur et de la date de modification
 Ajout du template admin.html
 Ajout d'un acces à la page admin de chaque code enregistré pour consulter les donnée d'enregistrementde ce code (IP, navigateur,date)
-
-
-
-Partie 4 : colorisation de code
-
-
-
-
-pygmentize sharecodedb.py
