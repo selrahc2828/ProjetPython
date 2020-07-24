@@ -1,9 +1,13 @@
 Démarage
 
 (venv) $ git clone https://framagit.org/jpython/share-code-plus.git
+
 (venv) $ cd share-code-plus
+
 (venv) $ pip install -r requirements.txt
+
 (venv) $ set FLASK_ENV=development
+
 (venv) $ python sharecode.py
 
 Partie 1 : enregistrer le langage de programmation utilisé
